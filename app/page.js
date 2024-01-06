@@ -10,7 +10,7 @@ const page = () => {
       <input type="text" className='text-2xl border-zinc-800 border-2 m-8 px-4 py-2'
       placeholder='Enter description here'/>
       <button className='bg-black text-white px-4 py-3 text-2xl font-bold rounded margin-4'>
-        Add Task</button>
+        Add Task 1</button>
       </form>
     </>
   )
